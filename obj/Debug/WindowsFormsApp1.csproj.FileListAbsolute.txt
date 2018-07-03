@@ -1,0 +1,25 @@
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\santi\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuscarForm.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.statisticsForm.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.insertlibro.resources
+C:\Users\santi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormModify.resources
